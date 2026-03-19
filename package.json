@@ -1,0 +1,12 @@
+{
+  "name": "autocenter-saentis-zielvereinbarung",
+  "version": "1.0.0",
+  "description": "Autocenter Säntis – Zielvereinbarung 2026",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
